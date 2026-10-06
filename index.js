@@ -1,5 +1,5 @@
 const URL_ZA_POSETU = "https://kuchenabluftreinigung.de";
-const INTERVAL_U_MILISEGUNDAMA = 30000; // 30 sekundi (30000 milisekundi)
+const INTERVAL_U_MILISEGUNDAMA = 60000; // 60 sekundi (60000 milisekundi)
 
 console.log("Skripta je pokrenuta na serveru i radi...");
 
